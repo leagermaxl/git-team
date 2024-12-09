@@ -15,5 +15,9 @@
     "url": "https://github.com/leagermaxl/git-team/issues"
   },
   "homepage": "https://github.com/leagermaxl/git-team#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
 }
