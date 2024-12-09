@@ -1,0 +1,19 @@
+{
+  "name": "git-team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leagermaxl/git-team.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leagermaxl/git-team/issues"
+  },
+  "homepage": "https://github.com/leagermaxl/git-team#readme",
+  "description": ""
+}
